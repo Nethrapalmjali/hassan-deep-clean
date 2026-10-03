@@ -1,0 +1,15 @@
+# Raw WhatsApp Videos (root)
+WhatsApp Video *.mp4
+
+# Scraped Instagram raw downloads (not used by the website)
+ig/
+
+# Environment variables
+.env
+.env.*
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
