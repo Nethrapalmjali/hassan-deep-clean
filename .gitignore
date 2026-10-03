@@ -13,3 +13,5 @@ ig/
 Thumbs.db
 .vscode/
 .idea/
+
+.vercel
